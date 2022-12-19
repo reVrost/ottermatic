@@ -1,2 +1,9 @@
+github.com/gen2brain/raylib-go v4.2.1-0.20221204123137-d6b1dea578e9+incompatible h1:BQ6HZQRJEJpyOTZp2v615B7SlDrkK3VVSosmcAab7zc=
+github.com/gen2brain/raylib-go v4.2.1-0.20221204123137-d6b1dea578e9+incompatible/go.mod h1:LUVRDQbnxUaOgzLzW5lMS+IcbqlXHIqIA9wq8wxzmcA=
+github.com/gen2brain/raylib-go/raygui v0.0.0-20211111173445-914ca1ffdc4d h1:vg5fVjfKIUxz61INykS34sH9SrUcqACfkxxuZ11akEY=
+github.com/gen2brain/raylib-go/raygui v0.0.0-20211111173445-914ca1ffdc4d/go.mod h1:9c2DHRs870gUiHZJaFxZZORqxnndSfxHr42NrEJU4dw=
+github.com/gen2brain/raylib-go/raylib v0.0.0-20210714145135-ccae99cbf6dd/go.mod h1:+NbsqGlEQqGqrsgJFF5Yj2dkvn0ML2SQb8RqM2hJsPU=
 github.com/gen2brain/raylib-go/raylib v0.0.0-20221127193218-23cae4c96cbe h1:JfpkbAF39rb8IVyZ+VXiYpRRITi0Mhe/K5fP8y7tLGM=
 github.com/gen2brain/raylib-go/raylib v0.0.0-20221127193218-23cae4c96cbe/go.mod h1:+NbsqGlEQqGqrsgJFF5Yj2dkvn0ML2SQb8RqM2hJsPU=
+github.com/gen2brain/raylib-go/raylib v0.0.0-20221204123137-d6b1dea578e9 h1:AOUfofrygUgRe5Ih6a9VTQjU2I+9eesX9Cx9muo4BR8=
+github.com/gen2brain/raylib-go/raylib v0.0.0-20221204123137-d6b1dea578e9/go.mod h1:+NbsqGlEQqGqrsgJFF5Yj2dkvn0ML2SQb8RqM2hJsPU=
