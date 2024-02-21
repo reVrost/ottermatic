@@ -10,4 +10,4 @@ Assets contribution by:
 Copyright Kenley Bastari
 
 # Play
-`go run main.go` simple as that.
+`make play` simple as that.
